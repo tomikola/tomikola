@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tomikola Tomasz Mikołajczyk
 - 👀 I’m interested in Data Analysis, BI tools, Data Science and Deep Learning
-- 🌱 I’m currently learning TensorFlow
 - 📫 How to reach me tmikolajczyk2@gmail.com
 
 <!---
